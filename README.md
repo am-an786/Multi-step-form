@@ -17,6 +17,8 @@
 This will run the app in development mode. Open http://localhost:3000 to view it in the browser.
 
 # Folder Structure
+<pre>
+  
 
 multi-step-form-react/
 │
@@ -30,6 +32,7 @@ multi-step-form-react/
 │
 ├── README.md          # Project README file
 └── ...
+  </pre>
 # Assumptions and Decisions
 Form Validation: Implemented basic client-side validation for required fields. Custom validation rules (e.g., email format) were added as per assignment specifications.
 
